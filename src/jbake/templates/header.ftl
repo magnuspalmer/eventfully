@@ -9,9 +9,9 @@
     <meta name="keywords" content="">    
 
     <!-- Le styles -->
-    <link href="/eventfully/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/eventfully/css/asciidoctor.css" rel="stylesheet">
-    <link href="/eventfully/css/base.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/asciidoctor.css" rel="stylesheet">
+    <link href="/css/base.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

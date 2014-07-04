@@ -26,13 +26,13 @@ resource_handler.resourceBase = 'build/jbake'
 
 def context = new ContextHandler()
 context.handler = resource_handler
-context.contextPath = '/eventfully'
+context.contextPath = '/'
 
 def handlers = new HandlerList()
 handlers.handlers = [context, new DefaultHandler()]
 server.handler = handlers
 
-println("Serving out contents on http://localhost:${connector.port}/eventfully");
+println("Serving out contents on http://localhost:${connector.port}/");
 println("(To stop server hit CTRL-C)");
 
 server.start()

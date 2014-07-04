@@ -5,7 +5,7 @@
 	<div class="row">
 	<h2>Tag list</h2>
 	<p><#list alltags as tag>
-		<a href="/eventfully/tags/${tag?trim?replace(' ','-')}.html">${tag}</a> 
+		<a href="/tags/${tag?trim?replace(' ','-')}.html">${tag}</a> 
 	</#list></p>
 	</div>
 
