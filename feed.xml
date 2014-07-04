@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Eventfully Blog</title>
+    <link>http://magnuspalmer.github.io/eventfully/</link>
+    <atom:link href="http://magnuspalmer.github.io/eventfully//feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>fr, 4 jul 2014 19:13:02 +0200</pubDate>
+    <lastBuildDate>fr, 4 jul 2014 19:13:02 +0200</lastBuildDate>
+
+    <item>
+      <title>Test</title>
+      <link>http://magnuspalmer.github.io/eventfully/2014/07/test.html</link>
+      <pubDate>fr, 4 jul 2014 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">2014/07/test.html</guid>
+      	<description>
+	&lt;h2&gt;Rubrik 2&lt;/h2&gt;&lt;p&gt;Just a simple test post.&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://magnuspalmer.github.io/eventfully/2014/07/test2.html</link>
+      <pubDate>fr, 4 jul 2014 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">2014/07/test2.html</guid>
+      	<description>
+	&lt;h1&gt;Test blog post&lt;/h1&gt;&lt;h2&gt;Rubrik 2&lt;/h2&gt;&lt;p&gt;Just a simple test post.&lt;/p&gt;
+	</description>
+    </item>
+
+  </channel> 
+</rss>
