@@ -1,0 +1,30 @@
+buildscript {
+  repositories {
+    mavenCentral()   
+    jcenter()
+    maven{ url = 'http://dl.bintray.com/melix/jbake-gradle-plugin' }
+  }
+
+  dependencies { 
+    classpath 'me.champeau.gradle:jbake-gradle-plugin:0.1'
+    classpath 'org.asciidoctor:asciidoctor-java-integration:0.1.4'
+    classpath 'org.freemarker:freemarker:2.3.19'
+    classpath 'org.jbake:jbake-core:2.3.0'
+    classpath 'org.pegdown:pegdown:1.4.2'
+  }
+}
+
+apply plugin: 'jbake'
+apply plugin: 'base'
+
+jbake {
+   input = file('src/jbake')
+   output = file('build/jbake')
+   clearCache = true
+   configuration['render.tag'] = 'true'
+}
+
+task publish(type: GradleBuild) {
+    buildFile = 'publish.gradle'
+    tasks = ['publishGhPages']
+}
