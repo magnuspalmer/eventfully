@@ -6,25 +6,29 @@
     <atom:link href="http://magnuspalmer.github.io/eventfully//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>fr, 4 jul 2014 20:56:45 +0200</pubDate>
-    <lastBuildDate>fr, 4 jul 2014 20:56:45 +0200</lastBuildDate>
+    <pubDate>lö, 5 jul 2014 14:56:50 +0200</pubDate>
+    <lastBuildDate>lö, 5 jul 2014 14:56:50 +0200</lastBuildDate>
 
     <item>
-      <title>Test</title>
-      <link>http://magnuspalmer.github.io/eventfully/2014/07/test.html</link>
-      <pubDate>fr, 4 jul 2014 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">2014/07/test.html</guid>
+      <title>Introduktion</title>
+      <link>http://magnuspalmer.github.io/eventfully/2014/07/introduktion.html</link>
+      <pubDate>lö, 5 jul 2014 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">2014/07/introduktion.html</guid>
       	<description>
-	&lt;h2&gt;Rubrik 2&lt;/h2&gt;&lt;p&gt;Just a simple test post.&lt;/p&gt;
+	&lt;h2&gt;Dags för något nytt men samtidigt gammalt&lt;/h2&gt;&lt;p&gt;Jag har undvikt att blogga i alla år men nu är det dags.&lt;br/&gt;Nytt för mig, gammalt för många andra.&lt;br/&gt;Vad kan jag tillföra som inte någon annan redan gör?&lt;br/&gt;Jag vill hävda att jag har en ganska hälsosam syn på hur man får till en bra utvecklingsprocess och arkitektur för att möjliggöra ett informationsutbyte mellan system samtidigt som affärsverksamheten får insyn i vad som händer.&lt;br/&gt;Om det är sant och att jag faktiskt kan förmedla det återstår att se, men det är min ambition.&lt;/p&gt;&lt;h2&gt;Ämnen&lt;/h2&gt;&lt;p&gt;Jag har lite olika funderingar på ämnen som hade varit intressanta och roliga att undersöka, här är ett par av dem:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The ESB is dead, long live the ESB! Ersätt Enterprise Service Bus med en EVENTful Service Bus. (Mer om detta i kommande blogginlägg).&lt;/li&gt;
+  &lt;li&gt;Hur gör jag för att komplettera eller rentutav ersätta min befintliga ESB eller integrationsplattform med Microservices? Varför skulle man vilja göra det?&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Om bloggen&lt;/h2&gt;&lt;p&gt;Jag hoppas att sidfoten är tillräckligt med hyllning/hänvisning till Cédric Champeau.&lt;br/&gt;Det är hans koncept att blogga som jag snott i princip rakt av. Rent tekniskt vill säga.&lt;/p&gt;
 	</description>
     </item>
     <item>
-      <title>Test</title>
-      <link>http://magnuspalmer.github.io/eventfully/2014/07/test2.html</link>
+      <title>Placeholder</title>
+      <link>http://magnuspalmer.github.io/eventfully/2014/07/placeholder.html</link>
       <pubDate>fr, 4 jul 2014 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">2014/07/test2.html</guid>
+      <guid isPermaLink="false">2014/07/placeholder.html</guid>
       	<description>
-	&lt;h1&gt;Test blog post&lt;/h1&gt;&lt;h2&gt;Rubrik 2&lt;/h2&gt;&lt;p&gt;Just a simple test post.&lt;/p&gt;
+	&lt;p&gt;Endast tillfälligt här pga vissa komponenter kräver minst två blogginlägg för att inte flippa ut.&lt;/p&gt;
 	</description>
     </item>
 
